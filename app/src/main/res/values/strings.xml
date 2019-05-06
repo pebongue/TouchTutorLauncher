@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Gamma Tutor Launcher</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="launcher_file_name">Touch Tutor</string>
+
+    <string name="date_modified_string">Last Modified: %1$s</string>
+    <string name="apps">Maths Educational Apps</string>
+    <string name="touchTutor">TouchTutor &#174;</string>
+    <string name="home">Home</string>
+
+</resources>

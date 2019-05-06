@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#103a5c</color>
+    <color name="colorPrimaryDark">#081e2f</color>
+    <color name="colorAccent">#ebab29</color>
+    <color name="gamma_yellow_dark">#e79e0a</color>
+    <color name="gamma_yellow">#ebab2a</color>
+    <color name="gamma_yellow_light">#eabf68</color>
+    <color name="gamma_blue_dark">#001339</color>
+    <color name="gamma_blue">#002060</color>
+    <color name="gamma_blue_light">#213866</color>
+</resources>
